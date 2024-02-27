@@ -37,7 +37,9 @@ beschrijving](./media/image1.png)
 
 ![Afbeelding met tekst, schermopname, Lettertype, nummer Automatisch
 gegenereerde
-beschrijving](./media/image2.png)De knop **BtnTabel** leest met behulp van een
+beschrijving](./media/image2.png)
+
+De knop **BtnTabel** leest met behulp van een
 OpenFileDialog de csv file *DatMedewerkers* en voegt DataRows toe aan de
 DataTabel Medewerkers.
 
